@@ -8,3 +8,5 @@ Series of mini python projects
 3. Rock Paper Scissors
 
 4. Choose your own adventure
+
+5. Slot Machine
